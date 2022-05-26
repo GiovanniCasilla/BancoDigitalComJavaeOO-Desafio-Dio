@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Jorge Casilla\Desktop\Proj. Bancario\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-2707940638.index
-959880988.index
